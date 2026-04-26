@@ -1,7 +1,5 @@
 #  3D Options Exposure Engine (Gamma Surface)
 
-**Developed by:** [Mohamed Ashraf](https://github.com/MohamedAshraf2710)  
-**Domain:** Financial Engineering | Quantitative Analysis | 3D Visualization
 
 ##  Project Overview
 This engine provides a real-time 3D visualization of **Option Gamma Surfaces**. Unlike static models, this tool fetches live market data to calculate risk exposures using the **Black-Scholes-Merton** mathematical framework. It helps traders identify "Gamma Peaks"—areas where the underlying asset price is likely to experience high sensitivity or magnetic attraction.
@@ -34,3 +32,6 @@ This engine provides a real-time 3D visualization of **Option Gamma Surfaces**. 
 - **Time Decay (The Slope):** Observe how Gamma increases or decreases as we move from 60 days to 5 days until maturity.
 - **Volatility Smile Effect:** See how Implied Volatility (IV) affects the curvature and height of the risk surface.
 
+**Developed by:** [Mohamed Ashraf](https://github.com/MohamedAshraf2710)  
+**Domain:** Financial Engineering | Quantitative Analysis | 3D Visualization
+**Academic Background:** Faculty of Artificial Intelligence, Menofia University.
