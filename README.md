@@ -35,3 +35,6 @@ This engine provides a real-time 3D visualization of **Option Gamma Surfaces**. 
 **Developed by:** [Mohamed Ashraf](https://github.com/MohamedAshraf2710)  
 **Domain:** Financial Engineering | Quantitative Analysis | 3D Visualization
 **Academic Background:** Faculty of Artificial Intelligence, Menofia University.
+**Live Demo:** [🚀 Click here to explore the Live Engine](https://3d-options-exposure-engine-72wvch3yatngfrbjtz8ngt.streamlit.app/)
+
+> **Watch the Full Demo:** [🎥 Video Walkthrough](https://drive.google.com/file/d/1QWKgeUvs_GYqRFfEav2iRLmphl4s60ie/view?usp=sharing)
